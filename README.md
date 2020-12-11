@@ -4,7 +4,7 @@ This project is meant to be a synthesis of everything I've been learning.
 ---THE PROGRESS MADE SO FAR---
 - Created the repository
 - Created the main pages
-- Started to add content to "historia.html" and "funcionamento.html"
+- Started to add content to "historia.html", "funcionamento.html", "htmlecss.html"
 
 ---BIBLIOGRAPHY---
 
